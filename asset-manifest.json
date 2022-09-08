@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dishpoll/static/css/main.97d03a58.css",
+    "main.js": "/dishpoll/static/js/main.bcd989b8.js",
+    "static/js/787.ce49cb29.chunk.js": "/dishpoll/static/js/787.ce49cb29.chunk.js",
+    "static/media/logo.png": "/dishpoll/static/media/logo.026836a460a455e440af.png",
+    "index.html": "/dishpoll/index.html",
+    "main.97d03a58.css.map": "/dishpoll/static/css/main.97d03a58.css.map",
+    "main.bcd989b8.js.map": "/dishpoll/static/js/main.bcd989b8.js.map",
+    "787.ce49cb29.chunk.js.map": "/dishpoll/static/js/787.ce49cb29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d03a58.css",
+    "static/js/main.bcd989b8.js"
+  ]
+}
